@@ -60,17 +60,6 @@ I hate a lot of things, and I don't particularly like anything. What I have is n
 
 ---
 
-<div align="center">
-
-### Contribution trail
-
-<img src="https://raw.githubusercontent.com/aryananand-04/aryananand-04/dist/snake.svg"/>
-
-</div>
-
----
-
-<div align="center">
 
 <sub>
 
