@@ -38,15 +38,13 @@ I hate a lot of things, and I don't particularly like anything. What I have is n
 
 <div align="center">
 
-### system analytics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryananand04&show_icons=true&theme=transparent&hide_border=true&title_color=7E7EFF&icon_color=5F5FFF&text_color=8B8BA7&bg_color=00000000&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryananand04&theme=transparent&hide_border=true&background=00000000&ring=5F5FFF&fire=7E7EFF&currStreakLabel=AAAAFF&sideNums=8888AA&dates=666688"/>
+### Activity
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryananand04&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=7E7EFF&text_color=8B8BA7"/>
+<img height="170" src="https://gh-readme-profile.vercel.app/api?username=aryananand-04&show_icons=true&theme=transparent&hide_border=true&title_color=7E7EFF&icon_color=5F5FFF&text_color=8B8BA7&bg_color=00000000"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aryananand-04&theme=transparent&hide_border=true&background=00000000&ring=5F5FFF&fire=7E7EFF&currStreakLabel=AAAAFF&sideNums=8888AA&dates=666688"/>
 
 </div>
 
@@ -54,7 +52,7 @@ I hate a lot of things, and I don't particularly like anything. What I have is n
 
 <div align="center">
 
-### arsenal
+### Arsenal
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,nextjs,react,nodejs,postgres,supabase,docker,aws,tailwind,git,linux"/>
 
@@ -64,9 +62,9 @@ I hate a lot of things, and I don't particularly like anything. What I have is n
 
 <div align="center">
 
-### contribution trail
+### Contribution trail
 
-<img src="https://raw.githubusercontent.com/Aryananand04/Aryananand04/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/aryananand-04/aryananand-04/dist/snake.svg"/>
 
 </div>
 
